@@ -2,17 +2,23 @@
 layout: about
 title: about
 permalink: /
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: # Add more info about you
-
-social: true # includes social icons at the bottom of the page
+# profile:
+#   align: right
+#   image: profile_pic.jpg
+#   image_circular: false
+#   more_info: # Add more info about you
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a junior at Grinnell College with a major in Computer Science and a concentration in Statistics. Most excitingly, I will be joining Meta this summer as a software engineering intern in NYC!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My past experiences span front-end, back-end, cloud, and ML. For the past few months though, I have focused my efforts into thoroughly pursuing ML development. Currently, I am most interested in cool and advanced ML applications for creating and enhancing audio and music.
+
+All of my previous work are detailed in my [resume](/resume/) and [projects](/projects/) section.
+
+I have also documented my journey with classical music &mdash; my other burning passion &mdash; [here](/music/) as well!
+
+Feel free to shoot me an email at [anhvungoc.21@gmail.com](mailto:anhvungoc.21@gmail.com). \
+You can also catch me at: \
+[github](https://github.com/anhvungoc21) | [linkedin](https://www.linkedin.com/in/anh-n-vu/) | [instagram](https://www.instagram.com/anhvungoc.21/) | [spotify](https://open.spotify.com/user/31bxyaza5umfkqwyrkoebkyrivnu) (I make playlists, not music :D)

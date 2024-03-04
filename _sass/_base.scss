@@ -4,6 +4,8 @@
 
 // Typography
 
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
 p,
 h1,
 h2,
@@ -17,6 +19,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: "Rubik", sans-serif;
 }
 
 hr {

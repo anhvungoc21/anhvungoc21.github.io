@@ -1,6 +1,6 @@
 ---
 layout: page
-title: my music journey
+title: my other passion
 permalink: /music/
 description: insert description
 nav: true
