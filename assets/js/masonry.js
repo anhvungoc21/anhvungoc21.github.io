@@ -1,1 +1,1 @@
-$(document).ready(function(){var r=$(".grid").masonry({gutter:10,horizontalOrder:!0,itemSelector:".grid-item"});r.imagesLoaded().progress(function(){r.masonry("layout")})});
+$(document).ready(function(){console.log("init Masonry");var o=$(".grid").masonry({gutter:10,horizontalOrder:!0,itemSelector:".grid-item"});o.imagesLoaded().progress(function(){o.masonry("layout"),console.log("DONE MASONRY")})});
